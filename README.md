@@ -1,7 +1,4 @@
-
-[![MasterHead](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
-
-<img align="center" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC ">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFjdDFkYXpwcnNtaDNoMXRpOXBnaHI0eDFleDF6MzZzcXl2eDVqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <h1 align="center">Hi, I am Rupam Modak</h1>
 <hr>
 # 💫 About Me:
