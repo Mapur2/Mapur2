@@ -1,6 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on Full-Stack<br>      Developement
 
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
+<img align="center" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0fPmXLzrp4orUWPJuJqXys&ust=1687279625918000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLC_o8jkz_8CFQAAAAAdAAAAABAE)">
+<h1 style="text-align:center">Hi, I am Rupam Modak</h1>
+<hr>
+# 💫 About Me:
+🔭 I’m currently working on Full-Stack Developement
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rupam-modak-a87066251/) 
