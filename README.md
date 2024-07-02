@@ -7,6 +7,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rupam-modak-a87066251/) 
 <a href="https://www.hackerrank.com/rupam_modak?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rupam_modak/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4h4yf5vhuu8_Dqf5VC1l1tFbIJ88N4H24jg&s" alt="" height="30" width="40" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mapur2&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 # 💻 Tech Stack:
